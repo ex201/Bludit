@@ -1,0 +1,13 @@
+# Dynamische Bludit-Inhalte und Datenbanken
+web/bl-content/databases/
+web/bl-content/workspaces/
+web/bl-content/tmp/
+
+# Umgebungsdateien mit lokalen Anpassungen
+.env
+
+# Betriebssystem- und IDE-Dateien
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
